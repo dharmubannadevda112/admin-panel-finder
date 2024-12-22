@@ -77,24 +77,6 @@ fg
 
 `pip install colored --upgrade`
 
-Or
-یا
-
-`pip3 install colored --upgrade`
-
-🪲 Tested on termux and linux and win10:
-
-🪲 تست شده بر روی لینوکس و ترموکس و ویندوز10
-
-
-### 📌 How to Launch ?
-
-نحوه راه اندازی 📌 :
-
-`git clone https://github.com/C4ssif3r/admin-panel-finder`
-
-```cd admin-panel-finder```
-
-`python admin-finder.py`
+git clone https://github.com/C4ssif3r/admin-panel-finder
 
 
